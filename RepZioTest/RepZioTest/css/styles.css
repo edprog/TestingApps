@@ -1,0 +1,32 @@
+﻿.thumbnail {
+    height:400px;
+    width: 230px;
+}
+
+.mobile-nav{
+    padding-top:60px;
+}
+
+.modal-content{
+    padding:25px;
+}
+
+.product {
+    margin: 0 auto;
+}
+
+.panel {
+    border: 0;
+}
+
+.table > thead > tr > th, 
+.table > thead > tr > td {
+    border: 0;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: white;
+    border-color:white;
+    color: white;
+}
